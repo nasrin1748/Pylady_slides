@@ -1,8 +1,8 @@
 <div class="two-thirds">
     <div>
         <h2 class="presenter-title"><em style="color: #FDA703; font-style: normal; font-weight: bold;"></h2>
-          <h3 class="presenter-title" style="padding: 0; font-size: 1.4em !important;">Web development in pyscript</h3>
-          <h4 class="presenter-title" style="padding: 0; font-size: 1√em !important;">Pathan Nasrin Begum</h4>
+          <h3 class="presenter-title" style="padding: 0; font-size: 1.4em !important;">WEB DEVELOPMENT IN PYSCRIPT  </h3>
+          <h4 class="presenter-title" style="padding: 0; font-size: 1√em !important;">Nasrin Pathan</h4>
           <br>
           <h6 class="presenter-title" style="padding: 0; margin-top: 0; margin-bottom: 0;">
               <i class="fa fa-envelope"></i>
@@ -28,11 +28,12 @@
     </div>
     <div>
         <ul>
-            <li>founder of pyscript on PyCharm.</li>
-            <li>Previously @ INSOFE(2019),SKILL TO HIRE,BYTECODE SOFTWARE SOLUTIONS LTD.</li>
+            <li>Founder of Pyscript on PyCharm.</li>
+            <li>Mediator between Jupyter community and Pyscript community.</li>
         </ul>
     </div>
 </div>
+
 
 ---
 
@@ -41,13 +42,27 @@
 </h2> 
 
 <img src="imgs/img.png">
-
 ---
-## Traditional PyScript
+## Is your website really safe?
+<a href="https://nasrin1748.github.io/uk_school/" target="_blank">link</a>
 ---
-<img src="img.png"> 
+## Traditional Web development 
+<img src="imgs/pylady7.png">    
 ---
-Github beta blocks all desktop applications.
+## Traditional Web development in Pyscript
+---
+<h7><span style="color: #fda703">How it Started?</span></h7>
+<img src="imgs/pyscript6.jpg">
+---
+<h7><span style="color: #fda703">Using Pyscript</span></h7>
+<a href="https://nasrin1748.github.io/pyscript-test/" target="_blank">(link)</a>
+<img src="imgs/pyscript8.jpg">
+---
+<h7><span style="color: #fda703">Using Django</span></h7>
+<img src="imgs/pyscript4.jpg">
+---
+<p><span>OAuth Application deployed all the Desktop applications and moved to Github beta which blocks all desktop applications.</span></p>
+---
 ## What is Web development in New Advanced PyScript?
 <ul class="fragment">
      <li class="fragment">
@@ -58,21 +73,57 @@ Github beta blocks all desktop applications.
     </li>   
 ---
 First Website    
-<img src="img_1.png">      
+<img src="pyscript12.png">      
+<a href="https://nasrin1748.github.io/pythonProject1/" target="_blank">link</a>
+---
+Getting python function to Javascript.
+<img src="pylady12.png">
 ---
 Second Website
-<img src="img_2.png">          
----        
+<img src="pyscript13.png">
+<a href="https://nasrin1748.github.io/website/" target="_blank">link</a>
+---
+latest version was removed.
+<iframe width="560" height="300" src="https://www.youtube.com/embed/WfgCKdiuEms?si=mYYBe5-LoqkH-iH"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen credentialless></iframe><iframe width="560" height="300" src="https://www.youtube.com/embed/qTueh5Wym-8?si=mYYBe5-LoqkH-iH"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen credentialless></iframe>
+---
+Third Website to Work
+<img src="pylady17.png">
+<iframe width="560" height="315" src="https://nasrin1748.github.io/TO_D0/"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen credentialless></iframe>
+<a href="https://nasrin1748.github.io/TO_D0/" target="_blank">link</a>
+---
+<iframe width="560" height="315" src="https://nasrin1748.github.io/sql_lite/"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen credentialless></iframe>
+---
+Things to explore
+<ul class="fragment">
+     <li class="fragment">
+      Java script supports single link web development.
+<a href="https://nasrin1748.github.io/pythonProject98/" target="_blank">link</a>
+    </li>
+    <li class="fragment">
+      flask supports single link web development.But Github supports index.html deployments and streamlite has its own way of coding.flask converted to streamlit worked.
+    </li> 
+   <li class="fragment">
+      Should research on getting python packages to Javascript via micropip or pyscript.
+    </li> 
+ <li class="fragment">
+      Canvas web development on hold it's best for gaming as of now.
+    </li> 
+</ul>
+---
+Streamlit verses Pyscript
+<img src="pylady13.png">
+---
+<iframe width="1000" height="600" src="https://nasrin1748.github.io/jupyter_tabextension/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen credentialless></iframe>
+<a href="https://3ew6r2fsodalbm2dy2lc82.streamlit.app/" target="_blank">text&nbsp;</a>
+<a href="https://appelog-gg7ghfixbzfcqtxkfa4wgp.streamlit.app/" target="_blank">login&nbsp;</a>
+---
 <h2><span style="color: #fda703">PyScript</span></h2>
 <ul class="fragment">
      <li class="fragment">
-      Yes pyscript replaced django  
+      Yes pyscript replaced django.  
     </li>
-    <li class="fragment">
-      python on browser 
-    </li>
-     <li class="fragment">
-      Making use of packages on browser. 
+      <li class="fragment">
+      Pyscript replaced latest version to some extinct.
     </li>
 </ul>    
 ---
@@ -83,8 +134,17 @@ Second Website
 <img src="img_3.png">    
 ---
 <h2><span style="color: #fda703">Making use of Python packages on web.</span></h2>
-
-<img src="img_5.png">  
+<ul>
+<li>Package installation using javascript supports all packages.</li>
+<a href="https://nasrin1748.github.io/package_installation/" target="_blank">link</a>
+<li>Package installation can be automated.</li>
+<a href="https://nasrin1748.github.io/PAckage_installationa/" target="_blank">link</a>
+</ul>
+---
+<img src="pylady15.png">
+---
+Package installation can be automated.
+<img src="pylady20.png">
 ---
 <h2><span style="color: #fda703">Bye...Bye... Desktop Applications.</span></h2>
 
@@ -96,18 +156,11 @@ Second Website
     <li class="fragment">
       What's Going to happen when you manually write Desktop Application on Github? 
     </li>
-     <img src="img_7.png">    
----
-<h4><span style="color: #fda703">Python and Javascript together.</span></h4>
-
-<img src="img_8.png">
+     <img src="img_7.png">
 ---
 <h2> Why <span style="color: #fda703">PyScript?</span></h2>
 
 <ul class="fragment">
-    <li class="fragment">
-      Free to use.  
-    </li> 
     <li class="fragment">
       Easy Deployment.
     </li> 
@@ -124,13 +177,43 @@ Second Website
       Improved execution time.
     </li>
      <li class="fragment">
+      Share Application and connect.
+    </li>
+     <li class="fragment">
       Free Assistance.
     </li>
+      <li class="fragment">
+      sqlite for database.
+    </li>
+ <li class="fragment">
+      Friendly and Welcoming team.
+    </li>
 </ul>
-    
 ---
-<h2><span style="color: #fda703">Next thing coming? Web development in canvas.</span></h2>
-(A good website is which shows the same on mobile and on browser.Web development in Canvas is an example for that...)
+<h2><span style="color: #fda703">Drawbacks</span></h2>
+
+<ul class="fragment">
+    <li class="fragment">
+      Dependent on internet.
+      <a href="https://nasrin1748.github.io/checkimg1/" target="_blank">link</a>
+    </li> 
+     <li class="fragment">
+      Github(Restrict the uploads of system files.) is more secure than pyscript.com(allow kinds of upload but restrict its usage.)
+    </li>
+    <li class="fragment">
+      No Memory usage restrictions for Uploads with pycharm.
+    </li>
+   <li class="fragment">
+      Doesn't support all packages.
+</li>
+ <li class="fragment">
+      There is no Save.
+</li>
+</ul>
+---
+<h2><span style="color: #fda703">Next thing coming?</span></h2>
+<h4><a href="https://nasrin1748.github.io/game_trail/" target="_blank">Connect and play together.</a></h4>
+Pyscript2
 ---
 <h2>How to Get started? </h2>
 
@@ -161,4 +244,3 @@ Second Website
 ---
 
 # Thank you!
-
