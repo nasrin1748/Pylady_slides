@@ -2,7 +2,7 @@
     <div>
         <h2 class="presenter-title"><em style="color: #FDA703; font-style: normal; font-weight: bold;"></h2>
           <h3 class="presenter-title" style="padding: 0; font-size: 1.4em !important;">WEB DEVELOPMENT IN PYSCRIPT  </h3>
-          <h4 class="presenter-title" style="padding: 0; font-size: 1√em !important;">Nasrin Pathan</h4>
+          <h4 class="presenter-title" style="padding: 0; font-size: 1√em !important;">Nasrin</h4>
           <br>
           <h6 class="presenter-title" style="padding: 0; margin-top: 0; margin-bottom: 0;">
               <i class="fa fa-envelope"></i>
